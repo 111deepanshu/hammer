@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://dw5dld6u26m4k"]
+
+[node name="grid_parallax" type="Node2D"]
